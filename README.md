@@ -16,7 +16,7 @@ This project is developed using **Jetpack Compose** for the UI and **Room Databa
 
 **Dynamic UI**: Jetpack Compose enables smooth and interactive UI components.
 
-Prerequisites
+## Prerequisites
 
 To build and run this app, ensure you have:
 
@@ -26,15 +26,15 @@ To build and run this app, ensure you have:
 
 **Internet access** (for any dependencies).
 
-**Installation:**
+### Installation:
 
-Clone the Repository
+- Clone the Repository
 
-Open in Android Studio
+- Open in Android Studio
 
-Launch Android Studio.
+- Launch Android Studio.
 
-Select Open an existing project and navigate to the cloned repository.
+- Select Open an existing project and navigate to the cloned repository.
 
 ### Build the Project:
 
