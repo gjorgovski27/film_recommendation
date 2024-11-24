@@ -10,7 +10,7 @@ This project is developed using **Jetpack Compose** for the UI and **Room Databa
 
 **User Authentication**: Users can log in or sign up to access personalized features.
 
-**Movie Recommendations**: Explore movies with a rating of 4 and above.
+**Movie Recommendations**: Explore movies with a rating.
 
 **Comment System**: View and post comments for each movie.
 
